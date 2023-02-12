@@ -1,18 +1,33 @@
 h1{
-    color:rgb(238, 86, 86);
-    font-weight:bold;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style:italic;
-    background-color:rgb(154, 204, 247) ;
-    display:inline;
-    margin-left: 23cm;
+    color:white;
+    display:block;
+    margin:auto;
+    width:220px;
+}
+body{
+    background-color:black;
 }
 td{
-    border:black solid 5px;
+    border:white solid 5px;
     width:100px;
     height:100px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    color:white;
+    font-size:80px;
+    text-align: center;
+}
+button{
+    margin:auto;
+    display:block;
+    margin-top:20px;
+}
+p{
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    font-size:80px;
+    text-align: center;
 }
